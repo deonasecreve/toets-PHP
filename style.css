@@ -1,0 +1,16 @@
+body{
+
+}
+
+table{
+	width: 800px;
+	background-color: silver;
+}
+
+table, td, th{
+	border: 1px #FFFFFF solid;
+}
+
+th{
+	text-align : left;
+}
